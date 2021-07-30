@@ -1,5 +1,5 @@
 # Web-Scrapping
 ### Available Social Media
-** Twitter 
+* Twitter 
 * Facebook 
 * Instagram
